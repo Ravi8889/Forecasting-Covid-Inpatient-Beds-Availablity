@@ -1,0 +1,1 @@
+web: gunicorn :covidapp.py:flask_app 
